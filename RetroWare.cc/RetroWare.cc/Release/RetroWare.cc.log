@@ -1,0 +1,57 @@
+﻿  main.cpp
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\addresses.h(100,35): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\ESP.h(67,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\ESP.h(197,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\ESP.h(203,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\ESP.h(204,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Rage.h(53,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Rage.h(53,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Rage.h(56,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\AimBot.h(152,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Smokes.h(22,6): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Smokes.h(107,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Smokes.h(107,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\Smokes.h(110,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\BombTimer.h(40,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\BombTimer.h(43,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\BombTimer.h(44,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\BombTimer.h(48,23): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\TriggerBot.h(8,26): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\FovChanger.h(13,7): warning C4101: 'Health': unreferenced local variable
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\SkinChanger.h(250,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(72,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(72,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(73,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(73,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(75,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(76,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(79,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(79,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(80,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(80,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(82,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(83,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(86,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(86,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(87,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(87,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(89,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\OutOfFovArrows.h(90,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(258,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(259,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(260,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(262,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(263,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(264,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare.cc\RetroWare.cc\main.cpp(273,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  4 of 1762 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    34 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RetroWare.cc.vcxproj -> D:\visual_studio_Projects_cpp\RetroWare.cc\Release\RetroWare.cc.exe
